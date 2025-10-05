@@ -1,0 +1,12 @@
+streamlit>=1.36
+yfinance>=0.2
+plotly>=5.15
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+requests>=2.31
+# Optional (falls vorhanden, sonst ignoriert die App das elegant)
+PyPortfolioOpt>=1.5
+cvxpy>=1.4
+statsmodels>=0.14
+scikit-learn>=1.3
